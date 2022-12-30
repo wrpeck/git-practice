@@ -21,3 +21,7 @@ Adding a paragraph to this section
 ### Copyright
 
 This is a copyright notice for this pretend website
+
+### Team
+
+* Me
