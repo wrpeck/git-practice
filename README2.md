@@ -15,3 +15,11 @@
 lorem ipsum something something
 
 ## More headers
+
+Adding a paragraph to this section
+
+<Callout warning>
+
+This is a major concern!
+
+</Callout>
