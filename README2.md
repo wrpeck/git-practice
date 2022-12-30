@@ -18,8 +18,6 @@ lorem ipsum something something
 
 Adding a paragraph to this section
 
-<Callout warning>
+### Copyright
 
-This is a major concern!
-
-</Callout>
+This is a copyright notice for this pretend website
